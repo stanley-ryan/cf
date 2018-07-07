@@ -1,0 +1,4 @@
+实现 lenet batch mode 下的trainning
+支持系数 prunning,测试pruning90%,60%,full的三种情况
+结果在result目录
+
