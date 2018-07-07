@@ -11,9 +11,10 @@ CMakeCache.txt
 !CMakeList.txt
 *.a
 !algo_main/train_lenet_gpu_batch
+!algo_main/train_lenet_gpu_xnor
 !algo_main/show_training_result_all.sh
 !algo_main/show_train_log.py
-
+algo_main/train_lenet_gpu_xnor/lenet_xnor_train_weights/
 lenet_prune90_train/
 !caffe/caffe_gpu_batch
 !caffe/caffe_gpu_batch/*.a
